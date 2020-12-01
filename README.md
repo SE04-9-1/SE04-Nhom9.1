@@ -1,2 +1,2 @@
 # SE04-Nhom9.1
-#Thanh Vien: Ngo Quang Vinh - Nguyen Duc Minh - Nguyen Van Long - Nguyen Van Loc
+#Thanh Vien: Nguyen Duc Minh - Ngo Quang Vinh - Nguyen Van Long - Nguyen Van Loc
