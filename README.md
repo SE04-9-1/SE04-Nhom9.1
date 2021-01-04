@@ -4,9 +4,12 @@
 * Nguyễn Đức Minh
 * Nguyễn Văn Long
 * Nguyễn Văn Lộc
-## 1. Giới thiệu chung về  ứng dụng
+## 1. Giới thiệu chung về ứng dụng
 * Ứng dụng cho phép tạo hiệu ứng khuôn mặt và  lưu lại khoảng khắc đó.
-## 2. Chi tiết ứng dụng
+## 2. Mục tiêu
+* Dựng một ứng dụng AR đơn giản bằng Unity, có thể Build sang Android và có thể sử dụng thiết bị Android để chạy.
+* Sử dụng Blender sửa đổi model 3D
+* Ứng dụng có thể có các chức năng sau:
 * Có một danh sách các hiệu ứng cho phép người dùng lựa chọn để thay đổi hiệu ứng khuôn mặt.
 * Cho phép người dụng chụp và lưu lại khoẳng khác thay đổi khuôn mặt đó.
 ## 3. Cài đặt 
